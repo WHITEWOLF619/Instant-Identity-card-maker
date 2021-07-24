@@ -26,3 +26,6 @@ you can also chnage the template of the identity card
 # screenshots
 ![alt text](https://github.com/WHITEWOLF619/Implantable-antenna/blob/main/antenna1.jpg)
 ![alt text](https://github.com/WHITEWOLF619/Implantable-antenna/blob/main/antenna2.jpg)
+
+# future work
+could be deployed with machine learning algorithm wich would generate an unique code for the person which would in-turn genreate an bar code for unique identification
