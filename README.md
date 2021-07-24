@@ -20,13 +20,16 @@ Then it asks if you want to retake the photo.
 you can also chnage the template of the identity card 
 
 # Data flow and User case diagram
-![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/instant%20identity%20card%20maker.png)
 ![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/Data%20flow%20diagram.jpg)
+![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/instant%20identity%20card%20maker.png)
+
 
 # screenshots
-![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/Data%20flow%20diagram.jpg)
+![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output.jpg)
 ![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output2.jpg)
-![alt text](![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/output2.jpg))
+![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/template.jpg)
+![alt text](https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/template.jpg)
+https://github.com/WHITEWOLF619/Instant-Identity-card-maker/blob/main/screenshots/template.jpg
 
 # future work
 could be deployed with machine learning algorithm wich would generate an unique code for the person which would in-turn genreate an bar code for unique identification
