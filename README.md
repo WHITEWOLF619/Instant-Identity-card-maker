@@ -4,18 +4,21 @@ IDs serve as a form of instant identification for everyone in the building. They
 This project can be used to instantly make identity cards which is very essential for events and competitions held by the colleges or any other facility for that matter.
 
 
-Using the computer vision and python imaging library the program creates an instant identiy card by using the webcam of the host laptop and the information provided by them.
+Using the computer vision and python imaging library the program creates an instant identiy card by using the webcam of the host laptop and the information provided by the User.
 It save the card with name = rollnonamefinal.png
 
 
 # Dependencies
 
-For this project I have used open-cv(COMPUTER VISION LIBRARY) libraby and PIL library (PYTHON IMAGING LIBRARY)
+For this project I have used open-cv(COMPUTER VISION LIBRARY) 
+libraby and PIL library (PYTHON IMAGING LIBRARY)
+
+
 pip install opencv-python
 pip install Pillow
 
 # Usage
-when you run the code it promts for the data to be printed on the identity card, and also asks if you would like your photo to be coloured or black and white.
+when you run the code it promts for data to be printed on the identity card, and also asks if you would like your photo to be coloured or black and white.
 Then it asks if you want to retake the photo.
 you can also chnage the template of the identity card 
 
