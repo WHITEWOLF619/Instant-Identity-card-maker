@@ -33,4 +33,4 @@ you can also chnage the template of the identity card
 
 
 # future work
-could be deployed with machine learning algorithm wich would generate an unique code for the person which would in-turn genreate an bar code for unique identification
+Could be deployed with machine learning algorithm that would generate an unique code for the person (based on his facial scan) which in-turn generates a bar code for unique identification.
